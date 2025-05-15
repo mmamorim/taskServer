@@ -19,10 +19,10 @@
       "nome": "Banana",
       "cor": "Amarela"
     },
-    "FRUTA-ylsPy": {
-      "id": "FRUTA-ylsPy",
-      "nome": "Manga",
-      "cor": "Rosa"
+    "FRUTA-ro78C": {
+      "id": "FRUTA-ro78C",
+      "nome": "Banana",
+      "cor": "vermelho"
     }
   },
   "usuarios": {
@@ -43,6 +43,14 @@
       "login": "bia",
       "senha": "12345",
       "email": "bia@bia.com"
+    }
+  },
+  "tasks": {
+    "TASK-crer1": {
+      "id": "TASK-crer1",
+      "nome": "Fazer alguma coisa",
+      "data": "01/01/2000",
+      "done": true
     }
   }
 }
